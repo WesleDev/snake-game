@@ -1,4 +1,4 @@
-# snake-game
+# Snake-game
 
 ## Demo
 <img src="./assets/demo.png">
